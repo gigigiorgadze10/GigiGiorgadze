@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML/CSS/SCSS/JS/TS/Angular**
 
-- 📫 How to reach me **www.linkedin.com/in/gigi-giorgadze-9996472a0**
+- 📫 How to reach me **giorgadze.gigi2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
