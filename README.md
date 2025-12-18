@@ -3,6 +3,7 @@
 ### A passionate Angular developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gigigiorgadze10&label=Profile views&color=0e75b6&style=flat" alt="gigigiorgadze10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gigigiorgadze10&label=Profile%20views&color=0e75b6&style=flat" alt="gigigiorgadze10" /> </p>
 
 - 🔭 I'm currently working on **improving my skills in development.**
 
