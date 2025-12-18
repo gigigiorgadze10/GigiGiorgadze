@@ -1,7 +1,7 @@
-# Hi 👋, I'm Gigi Giorgadze
+<h1 align="center">Hi 👋, I'm Gigi Giorgadze</h1>
 
-### A passionate Angular developer focused on building scalable, user-friendly web applications. I enjoy working with components, services, and modern frontend architectures to create clean and efficient solutions
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+<h3 align="center">A passionate Angular developer focused on building scalable, user-friendly web applications. I enjoy working with components, services, and modern frontend architectures to create clean and efficient solutions</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gigigiorgadze10&label=Profile%20views&color=0e75b6&style=flat" alt="gigigiorgadze10" /> </p>
 
