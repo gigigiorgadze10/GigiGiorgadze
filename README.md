@@ -1,8 +1,7 @@
 # Hi 👋, I'm Gigi Giorgadze
 
-### A passionate Angular developer
+### A passionate Angular developer focused on building scalable, user-friendly web applications. I enjoy working with components, services, and modern frontend architectures to create clean and efficient solutions
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gigigiorgadze10&label=Profile views&color=0e75b6&style=flat" alt="gigigiorgadze10" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gigigiorgadze10&label=Profile%20views&color=0e75b6&style=flat" alt="gigigiorgadze10" /> </p>
 
 - 🔭 I'm currently working on **improving my skills in development.**
